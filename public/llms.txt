@@ -1,0 +1,10 @@
+# Rijschool Van De Leuv
+
+> Persoonlijke autorijschool van Joey van de Leuv in Hoorn, Enkhuizen en heel West-Friesland. Officiële start op 14 september.
+
+## Pages
+
+- [Home](/): Overzicht van de rijschool, aanpak, reviews en veelgestelde vragen.
+- [Over Joey](/over-joey): Achtergrond en ervaring van rijinstructeur Joey van de Leuv.
+- [Tarieven](/tarieven): Pakketten, losse tarieven en uitleg waarom een proefles bepalend is.
+- [Contact](/contact): Proefles aanvragen via WhatsApp of contactformulier, plus FAQ.
